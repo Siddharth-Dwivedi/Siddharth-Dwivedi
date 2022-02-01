@@ -11,10 +11,10 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 
 ### My Stats
  <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Dwivedi&show_icons=true&theme=chartreuse-dark"> <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Dwivedi&theme=chartreuse-dark">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Dwivedi&show_icons=true&theme=chartreuse-dark"> <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Dwivedi&theme=chartreuse-dark">
     </p>
     <p align="center">
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv01234&theme=chartreuse-dark" />
+<img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv01234&theme=chartreuse-dark" />
 </p>
 
 ### Coding Platforms
