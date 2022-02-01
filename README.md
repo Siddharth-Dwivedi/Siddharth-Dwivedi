@@ -5,7 +5,7 @@
     👬    I'm looking to collaborate on C/C++/Web-Dev.
     📚    I'm currently learning DSA.
     ♟️    Fun Fact- I'll be happy to play chess with you.
-Hi, I am Siddharth Dwivedi...I am a 2nd year student happily pursuing my B-tech degree in Computer Science from GLA UNIVERSITY,MATHURA. I'll be happy to collaborate on Projects with you.
+Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree in Computer Science from GLA UNIVERSITY,MATHURA. I'll be happy to collaborate on Projects with you.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharth-Dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Siddharth-Dwivedi" /> </p>
 
