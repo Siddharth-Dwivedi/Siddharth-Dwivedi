@@ -21,7 +21,7 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 </tr>
 </table>
 
-## Language and Tools
+### Language and Tools
 
 <table width="100">
 <tr>
