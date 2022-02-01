@@ -1,4 +1,4 @@
-# Hello there! 👋 Siddharth Dwivedi here...How's it going?!
+# HeY People! 👋 Siddharth here...How's it going?!
 ## 🚀 About Me
     👀    I'm a keen learner.
     💻    I'm interested in learning about Computers.
