@@ -9,6 +9,14 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharth-Dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Siddharth-Dwivedi" /> </p>
 
+### My Stats
+ <p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Dwivedi&show_icons=true&theme=chartreuse-dark"> <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Dwivedi&theme=chartreuse-dark">
+    </p>
+    <p align="center">
+<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv01234&theme=chartreuse-dark" />
+</p>
+
 ### Coding Platforms
 
 <table width="100">
@@ -87,8 +95,8 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <a href="https://github.com/Siddharth-Dwivedi/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Siddharth-Dwivedi&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
-</p>
-  
+    </p>
+
 
 <!---
 Siddharth-Dwivedi/Siddharth-Dwivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
