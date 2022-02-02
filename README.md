@@ -76,19 +76,19 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <a href="https://code.visualstudio.com/"></a><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
+        <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="60">
+        <a href="https://www.jetbrains.com/pycharm/"><img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="60"></a>
   </td>
 </tr>
 <tr>
   <td align='center' width="190">
-        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="60">
+        <a href="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="60"></a>
   </td>
   </td>
   <td align='center' width="190">
-        <img src="https://img.icons8.com/color/344/android-studio--v3.png" width="60">
+        <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/344/android-studio--v3.png" width="60"></a>
   </td>
 </tr>
 </table>
