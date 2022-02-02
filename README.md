@@ -76,7 +76,7 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
+        <a href="https://code.visualstudio.com/"></a><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
     </td>
     <td align='center' width="190">
         <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="60">
