@@ -26,10 +26,10 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="150">
+        <a href="https://www.hackerrank.com/Sid_Dwivedi" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="150"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="150">
+        <a href="https://www.codechef.com/users/sid_best_0111" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="150"></a>
 </tr>
 </table>
 
@@ -38,35 +38,35 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+        <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <a href="https://www.java.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+        <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120">
+        <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50">
+        <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"></a>
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="80">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="80"></a>
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" width="100">
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" width="100"></a>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="100">
+        <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="100"></a>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" width="100">
+        <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" width="100"></a>
     </td>
 </tr>
 </table>
@@ -76,19 +76,19 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120"></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120"></a>
     </td>
     <td align='center' width="190">
-        <a href="https://www.jetbrains.com/pycharm/"><img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="60"></a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="60"></a>
   </td>
 </tr>
 <tr>
   <td align='center' width="190">
-        <a href="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="60"></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="60"></a>
   </td>
   </td>
   <td align='center' width="190">
-        <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/344/android-studio--v3.png" width="60"></a>
+        <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/color/344/android-studio--v3.png" width="60"></a>
   </td>
 </tr>
 </table>
