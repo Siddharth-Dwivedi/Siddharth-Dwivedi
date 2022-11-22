@@ -32,7 +32,7 @@ Hi, I am Siddharth Dwivedi...I am a 3rd year student pursuing my B-tech degree i
         <a href="https://www.codechef.com/users/sid_best_0111" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="150"></a>
     </td>
     <td align='center' width="190">
-        <a href="https://www.codechef.com/users/sid_best_0111" target="_blank"><img src="https://codeforces.org/s/17292/images/codeforces-sponsored-by-ton.png" width="150"></a>
+        <a href="https://codeforces.com/profile/Siddharth_0111" target="_blank"><img src="https://codeforces.org/s/17292/images/codeforces-sponsored-by-ton.png" width="150"></a>
     </td>
 </tr>
 </table>
