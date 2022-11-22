@@ -5,7 +5,7 @@
     👬    I'm looking to collaborate on C/C++/Web-Dev.
     📚    I'm currently learning DSA.
     ♟️    Fun Fact- I'll be happy to play Chess with you.
-Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree in Computer Science from GLA UNIVERSITY,MATHURA. I'll be happy to collaborate on Projects with you.
+Hi, I am Siddharth Dwivedi...I am a 3rd year student pursuing my B-tech degree in Computer Science from GLA UNIVERSITY,MATHURA. I'll be happy to collaborate on Projects with you.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharth-Dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Siddharth-Dwivedi" /> </p>
 
@@ -30,6 +30,10 @@ Hi, I am Siddharth Dwivedi...I am a 2nd year student pursuing my B-tech degree i
     </td>
     <td align='center' width="190">
         <a href="https://www.codechef.com/users/sid_best_0111" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="150"></a>
+    </td>
+    <td align='center' width="190">
+        <a href="https://www.codechef.com/users/sid_best_0111" target="_blank"><img src="https://codeforces.org/s/17292/images/codeforces-sponsored-by-ton.png" width="150"></a>
+    </td>
 </tr>
 </table>
 
