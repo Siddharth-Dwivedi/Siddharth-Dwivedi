@@ -34,6 +34,9 @@ Hi, I am Siddharth Dwivedi...I am a 3rd year student pursuing my B-tech degree i
     <td align='center' width="190">
         <a href="https://codeforces.com/profile/Siddharth_0111" target="_blank"><img src="https://codeforces.org/s/17292/images/codeforces-sponsored-by-ton.png" width="150"></a>
     </td>
+    <td align='center' width="190">
+        <a href="https://leetcode.com/Siddharth_0111/" target="_blank"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" width="150"></a>
+    </td>
 </tr>
 </table>
 
